@@ -4,14 +4,37 @@ auth
 		login form
 	register
 		register form
-dashboard
-	mon compte
-	settings
+
+mon compte
+	change pic
+	change mail
+	change password
+	manage subscription
+	log out
+	delete account
+settings
+	night mode
+	preferences trip
+		auto sort
+		auto sort type
+		pin open pref
+		privacy default settings
+		auto delete passed trips
+	contact support
 browse
+	home
+	categories
+	search result
 trip
 	view
 	edit
 	create
 profil
+	view post
+	follower
+	following
 footer redirect
+	about project
+	terms and condition
+	privacy
 ui kit
